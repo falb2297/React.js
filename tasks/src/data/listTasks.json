@@ -1,0 +1,47 @@
+
+{
+    "todo":[
+        {
+            "title":"Task 1",
+            "responsible":"Mark",
+            "description":"IT",
+            "priority":"low"
+        },
+        {
+            "title":"Task 2",
+            "responsible":"Frank",
+            "description":"BD",
+            "priority":"high"
+        },
+        {
+            "title":"Task 3",
+            "responsible":"Joan",
+            "description":"Manager",
+            "priority":"medium"
+        },
+        {
+            "title":"Task 4",
+            "responsible":"Taylor",
+            "description":"IT",
+            "priority":"medium"
+        },
+        {
+            "title":"Task 5",
+            "responsible":"Taylor",
+            "description":"IT",
+            "priority":"high"
+        },
+        {
+            "title":"Task 6",
+            "responsible":"Taylor",
+            "description":"IT",
+            "priority":"low"
+        },
+        {
+            "title":"Task 7",
+            "responsible":"Pedro",
+            "description":"Manager",
+            "priority":"high"
+        } 
+    ]
+}
