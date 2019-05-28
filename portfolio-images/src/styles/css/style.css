@@ -1,0 +1,11 @@
+
+.wrapImage{
+    margin: 0;
+    padding: 0;
+}
+
+.imgStyle{
+    height: 102px;
+    width: auto;
+    border-radius: 5px;
+}
